@@ -1,7 +1,5 @@
 
-
 import heapq
-
 
 class Parkinglot:
   
